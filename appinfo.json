@@ -1,0 +1,17 @@
+{
+    "appKeys": {},
+    "companyName": "satyadev24@gmail.com",
+    "longName": "Tutorial1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Tutorial1",
+    "uuid": "77979799-d0c6-44f2-8860-ab4d05c437dc",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
